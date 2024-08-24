@@ -1,4 +1,4 @@
-function Home() {
+function Login() {
     return (
       <div>
         <h1>Bem-vindo ao seu perfil</h1>
@@ -6,5 +6,5 @@ function Home() {
     );
   }
   
-  export default Home;
+  export default Login;
   
